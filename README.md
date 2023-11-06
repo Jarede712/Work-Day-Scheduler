@@ -12,7 +12,7 @@ A simple workday scheduler that allows users to input their schedule for the day
 
 ## Usage
 
-To use this web application you can follow this link to the page: 
+To use this web application you can follow this link to the page: https://jarede712.github.io/Work-Day-Scheduler/
 
 Once the webpage has loaded, simply start typing out your schedule for the day. The application will show you the current day as well as the general time in the timeslots below. If a timeslot is greyed out it means that the time is past the current time, red means that it is the current time, and green indicates a future time. Using this users can easily schedule out their day and then save the events to their local machine in case they exit out of the application at any point.
 
