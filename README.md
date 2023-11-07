@@ -1,6 +1,6 @@
 # <Workday Scheduler>
 
-## Workday Schedueler
+## Workday Scheduler
 
 ## Description
 
